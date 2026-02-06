@@ -9,5 +9,5 @@ print(course.lower())
 print(greeeting.upper())
 
 #String Concatenation - This is the concept of joining strings
-print(greeeting + course)
+print(greeeting + " " + course)
 
