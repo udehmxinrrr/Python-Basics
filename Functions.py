@@ -37,7 +37,7 @@ dog()
 
 print()
 
-def dog(name,breed,age): #A Variable is referred called a parameter when it is typed between the defined function's parentheses
+def dog(name,breed,age): #A Variable is called a parameter when it is typed between the defined function's parentheses
     print(name, breed, age)
 dog("Bosco","Spitz","3") #Arguments are values that are passed when calling the defined function
 dog("Pato","Labrador","5") #Arguments are values that are passed when calling the defined function
